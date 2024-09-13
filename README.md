@@ -30,8 +30,17 @@ No, porque tiene que absorber los cambios que tuviesen los cambios de la rama ti
 - ¿Qué comando o comandos utilizaste en el paso 28?
 git restore --staged git-nuestro.md para volver a estado anterior al git add
 git restore git-nuestro.md para eliminar los cambios
-- ¿Qué comando o comandos utilizaste en el paso 28?
+
 - ¿Qué comando o comandos utilizaste en el paso 29?
+git Branch -d title
+
 - ¿Qué comando o comandos utilizaste en el paso 30?
+git merge styled
+
 - ¿Qué comando o comandos usaste en el paso 32?
+git reflog 
+git checkout e28146d
+
 - ¿Qué comando o comandos usaste en el punto 33?
+git reflog 
+git checkout 645ff8d
